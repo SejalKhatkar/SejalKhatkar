@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SejalKhatkar
+- 👋 Hi, I’m @Sejal_Khatkar
 - 👀 I’m interested in DSA || JAVA || WEB DEVELOPMENT || PROBLEM SOLVING || INNOVATION
 - 🌱 I’m currently learning ANGULAR || DOCKER || KUBERNETES
 
